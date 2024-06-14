@@ -1,0 +1,5 @@
+Anomaly Detection Algorithms: z-score and Isolation Forest   
+
+Isolation Forest Parameters: contamination = 0.1 
+                             n_estimators = 100
+  
